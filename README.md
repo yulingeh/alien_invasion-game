@@ -1,0 +1,7 @@
+# alien_invasion-game
+修改“巨蟒编程从入门到实践”中的alien_invasion例子
+外星人的生成方式与运动方式与书中不同
+每一组外星人的生成数目由一个随机小号数决定
+每隔2秒生成一组瓦特外星人
+highscore.txt保存历史最高分，有且仅有一个
+ship.bmp与alien.bmp图像
